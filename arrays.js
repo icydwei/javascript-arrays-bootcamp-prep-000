@@ -12,5 +12,3 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   return array
 }
 
-var myArray = [2, 4, 5]
-destructivelyAddElementToBeginningOfArray(myArray, "foo")
